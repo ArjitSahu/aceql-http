@@ -2,7 +2,6 @@
                      AceQL HTTP
                     Release Notes
 
-
 Introduction
 ------------
 
